@@ -7,12 +7,13 @@
 #     Thomas Nichols 33.333%
 #     Kyle Stewart   33.333%
 # Summary:
-#     Enter a brief description of your program here! If you do any
-#     extra credit, this would be a good place to describe it.
+#     This program is designed to play a relaxing game of Skeet.
+#     This in essence is just shooting small balls at bigger ones
 # 
-#     Estimated:  0.0 hrs
-#     Actual:     0.0 hrs
-#       Please describe briefly what was the most difficult part
+#     Estimated:  20.0 hrs
+#     Actual:     15.0 hrs
+#       Getting situated with a group. Also getting the collision 
+# 	Algorithm to work
 ###############################################################
 
 ###############################################################
